@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <https://blog.edisonlee55.com/img/69660140_p0.webp></a>
 </p>
 
 <h1 align="center">Hi, I'm 陈错</h1>
