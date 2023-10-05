@@ -2,7 +2,7 @@
   <https://blog.edisonlee55.com/img/69660140_p0.webp></a>
 </p>
 
-<h1 align="center">Hi, I'm 陈错</h1>
+<h1 align="center">Hi, I'm chencuo</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO     - -</h1>
 
 <p align="center">
